@@ -1,0 +1,2 @@
+C:/Users/Estim/Desktop/lin/cmake_code/src/103_message/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Estim/Desktop/lin/cmake_code/src/103_message/build/CMakeFiles/ZERO_CHECK.dir
