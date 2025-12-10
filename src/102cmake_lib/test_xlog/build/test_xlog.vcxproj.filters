@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Estim\Desktop\lin\cmake_code\src\102cmake_lib\test_xlog\test_xlog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Estim\Desktop\lin\cmake_code\src\102cmake_lib\test_xlog\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DBFD4DF3-4826-3FAD-A023-2C0887AC836F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

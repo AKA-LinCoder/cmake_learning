@@ -1,0 +1,10 @@
+^C:\USERS\ESTIM\DESKTOP\LIN\CMAKE_CODE\SRC\102CMAKE_LIB\XLOG\BUILD\CMAKEFILES\B5308EF73916534303B96B32FFE6407C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Estim/Desktop/lin/cmake_code/src/102cmake_lib/xlog -BC:/Users/Estim/Desktop/lin/cmake_code/src/102cmake_lib/xlog/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Estim/Desktop/lin/cmake_code/src/102cmake_lib/xlog/build/xlog.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

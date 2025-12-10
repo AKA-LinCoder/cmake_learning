@@ -1,0 +1,10 @@
+^C:\USERS\ESTIM\DESKTOP\LIN\CMAKE_CODE\SRC\102CMAKE_LIB\XLOG\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Estim/Desktop/lin/cmake_code/src/102cmake_lib/xlog -BC:/Users/Estim/Desktop/lin/cmake_code/src/102cmake_lib/xlog/build --check-stamp-file C:/Users/Estim/Desktop/lin/cmake_code/src/102cmake_lib/xlog/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
