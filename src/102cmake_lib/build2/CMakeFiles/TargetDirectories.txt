@@ -1,0 +1,4 @@
+C:/Users/Estim/Desktop/lin/cmake_code/src/102cmake_lib/build2/CMakeFiles/xlog.dir
+C:/Users/Estim/Desktop/lin/cmake_code/src/102cmake_lib/build2/CMakeFiles/test_xlog.dir
+C:/Users/Estim/Desktop/lin/cmake_code/src/102cmake_lib/build2/CMakeFiles/ALL_BUILD.dir
+C:/Users/Estim/Desktop/lin/cmake_code/src/102cmake_lib/build2/CMakeFiles/ZERO_CHECK.dir
