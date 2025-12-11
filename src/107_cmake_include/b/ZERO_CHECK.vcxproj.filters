@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Estim\Desktop\lin\cmake_code\src\107_cmake_include\b\CMakeFiles\f7701738acec73ed571e00f26e7751fc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Estim\Desktop\lin\cmake_code\src\107_cmake_include\cmake\test_camke.cmake">
+      <Filter>Buildsystem Input Files\cmake</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{420FE2FD-36AC-3CD6-9CF7-488DC85CF626}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\cmake">
+      <UniqueIdentifier>{BDB105F2-532C-3B48-A1A3-D6A085F6AFA3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
