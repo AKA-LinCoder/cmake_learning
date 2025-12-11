@@ -1,0 +1,2 @@
+C:/Users/Estim/Desktop/lin/cmake_code/src/104_test_var/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Estim/Desktop/lin/cmake_code/src/104_test_var/build/CMakeFiles/ZERO_CHECK.dir

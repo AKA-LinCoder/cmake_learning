@@ -1,0 +1,10 @@
+^C:\USERS\ESTIM\DESKTOP\LIN\CMAKE_CODE\SRC\104_TEST_VAR\BUILD\CMAKEFILES\0E1673D21CB37D7496830567F9D6D55A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Estim/Desktop/lin/cmake_code/src/104_test_var -BC:/Users/Estim/Desktop/lin/cmake_code/src/104_test_var/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Estim/Desktop/lin/cmake_code/src/104_test_var/build/TestVarProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
