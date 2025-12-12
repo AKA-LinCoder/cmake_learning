@@ -4,6 +4,10 @@ cmake_minimum_required(VERSION 3.20)
 #构建项目名称
 project(first_cmake)
 
+#显示详细编译日志，默认off
+#或者 直接 cmake --build . -v ,第一次运行就得加，否则后续可能缺失
+set(CMAKE_VERBOSE_MAKEFILE ON)
+
 #构建执行程序
 add_executable(first_camke 101first_cmake.cpp)
 

@@ -1,0 +1,10 @@
+^C:\USERS\ESTIM\DESKTOP\LIN\CMAKE_CODE\SRC\101_FIRST_CMAKE\BUILD\CMAKEFILES\226F2835F9F5D487D6B591C4826C707A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Estim/Desktop/lin/cmake_code/src/101_first_cmake -BC:/Users/Estim/Desktop/lin/cmake_code/src/101_first_cmake/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Estim/Desktop/lin/cmake_code/src/101_first_cmake/build/first_cmake.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
